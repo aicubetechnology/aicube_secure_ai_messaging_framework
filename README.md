@@ -386,18 +386,16 @@ We welcome contributions to the AICUBE ecosystem! Please read our [Contributing 
 4. Add tests and documentation
 5. Submit a pull request
 
-## 📄 License
+## 📄 License MIT
 
-Copyright (c) 2025 AICUBE TECHNOLOGY. All rights reserved.
+Copyright (c) 2025 AICUBE TECHNOLOGY LLC. All rights reserved.
 
-This software is proprietary and confidential. Unauthorized copying, distribution, or use is strictly prohibited.
 
 ## 📞 Support
 
-- 📧 **Email**: support@aicube.com
-- 🌐 **Website**: https://aicube.com
-- 📚 **Documentation**: https://docs.aicube.com
-- 🐛 **Issues**: https://github.com/aicubeKruz/secure-ai-messaging-framework/issues
+- 📧 **Email**: contact@aicube.ca
+- 🌐 **Website**: https://aicube.ca
+- 🐛 **Issues**: https://github.com/aicubetechnology/secure-ai-messaging-framework/issues
 
 ---
 
