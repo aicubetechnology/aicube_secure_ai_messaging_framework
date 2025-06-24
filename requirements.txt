@@ -1,0 +1,151 @@
+# AICUBE Secure AI Messaging Framework - Core Dependencies
+# 
+# This file contains the core dependencies required for the AICUBE
+# blockchain-based secure messaging framework with neural signature
+# authentication and quantum-resistant encryption.
+#
+# Developed by AICUBE TECHNOLOGY
+# Copyright (c) 2025 AICUBE TECHNOLOGY. All rights reserved.
+
+# Core Python Dependencies
+asyncio-mqtt>=0.11.1
+aiofiles>=0.8.0
+aiohttp>=3.8.0
+async-timeout>=4.0.0
+
+# Cryptography and Security
+cryptography>=3.4.8
+pycryptodome>=3.15.0
+pyotp>=2.6.0
+bcrypt>=3.2.0
+keyring>=23.0.0
+
+# Blockchain Dependencies
+web3>=6.0.0
+eth-account>=0.8.0
+eth-keys>=0.4.0
+eth-utils>=2.0.0
+py-solc-x>=1.12.0
+brownie>=1.19.0
+
+# Alternative Blockchain Support
+# substrate-interface>=1.6.0  # For Polkadot/Substrate
+# hfc>=1.0.0                  # For Hyperledger Fabric
+
+# LLM Integration
+openai>=1.0.0
+anthropic>=0.8.0
+tiktoken>=0.4.0
+
+# Data Processing and Storage
+pydantic>=1.10.0
+pyyaml>=6.0
+toml>=0.10.0
+python-dotenv>=0.19.0
+
+# Database and Storage
+sqlalchemy>=1.4.0
+redis>=4.3.0
+ipfshttpclient>=0.8.0
+
+# Networking and HTTP
+requests>=2.28.0
+httpx>=0.23.0
+websockets>=10.0
+grpcio>=1.50.0
+grpcio-tools>=1.50.0
+
+# Monitoring and Logging
+structlog>=22.1.0
+prometheus-client>=0.15.0
+opencensus>=0.11.0
+sentry-sdk>=1.9.0
+
+# Utilities
+click>=8.0.0
+rich>=12.0.0
+typer>=0.6.0
+tqdm>=4.64.0
+python-dateutil>=2.8.0
+pytz>=2022.1
+
+# Testing Framework (optional but recommended)
+pytest>=6.0.0
+pytest-asyncio>=0.18.0
+pytest-mock>=3.6.0
+pytest-cov>=3.0.0
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=1.0.0
+myst-parser>=0.17.0
+
+# Development Tools
+black>=22.0.0
+isort>=5.10.0
+flake8>=4.0.0
+mypy>=0.950
+pre-commit>=2.20.0
+
+# AICUBE Specific Requirements
+# (These would be proprietary AICUBE packages in a real implementation)
+# aicube-qube-lcm>=2.0.0
+# aicube-neural-memory>=2.0.0  
+# aicube-agentic-workflows>=2.0.0
+# aicube-computer-vision>=2.0.0
+
+# OS-specific Dependencies
+# Linux/Unix
+# systemd-python>=234  # For systemd integration
+
+# Windows
+# pywin32>=305  # For Windows service integration
+
+# macOS  
+# pyobjc>=8.0  # For macOS integration
+
+# Hardware Security Module Support
+# pkcs11>=0.7.0
+# python-pkcs11>=0.7.0
+# pyhsm>=1.2.0
+
+# Enterprise Features
+# ldap3>=2.9.0  # LDAP integration
+# kerberos>=1.3.0  # Kerberos authentication
+# pyjwt>=2.4.0  # JWT token handling
+
+# Performance Optimization
+uvloop>=0.17.0  # Fast event loop for Linux/macOS
+orjson>=3.8.0   # Fast JSON serialization
+cython>=0.29.0  # For performance-critical code
+
+# Cloud Provider Integration
+boto3>=1.24.0    # AWS SDK
+google-cloud-storage>=2.5.0  # Google Cloud
+azure-storage-blob>=12.13.0  # Azure
+
+# Message Queue Integration
+celery>=5.2.0
+kombu>=5.2.0
+pika>=1.3.0  # RabbitMQ
+kafka-python>=2.0.0
+
+# Time Series and Analytics
+influxdb-client>=1.32.0
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Configuration Management
+hydra-core>=1.2.0
+omegaconf>=2.2.0
+
+# API Framework
+fastapi>=0.85.0
+uvicorn>=0.18.0
+starlette>=0.20.0
+
+# Version Constraints
+# Ensure compatibility across different environments
+setuptools>=60.0.0
+wheel>=0.37.0
+pip>=22.0.0
