@@ -9,15 +9,6 @@ A revolutionary blockchain-based framework for AI agent communication featuring 
 
 ## 🚀 Developed by AICUBE TECHNOLOGY
 
-This framework leverages AICUBE's proprietary **Qube Technology Stack**:
-
-| Technology | Purpose | Enhancement |
-|------------|---------|-------------|
-| 🧠 **Qube LCM Model** | Advanced language understanding | Extended context, reasoning |
-| 💾 **Qube Neural Memory** | Persistent agent state | Learning, adaptation |
-| 🔄 **Qube Agentic Workflows** | Complex multi-agent processes | Orchestration, automation |
-| 👁️ **Qube Computer Vision** | Document & data verification | OCR, pattern recognition |
-
 ## ✨ Key Features
 
 ### 🔐 Enterprise-Grade Security
