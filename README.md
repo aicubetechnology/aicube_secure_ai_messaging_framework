@@ -1,7 +1,7 @@
 # 🚀 AICUBE Secure AI Messaging Framework
 
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/aicubeKruz/secure-ai-messaging-framework)
-[![License](https://img.shields.io/badge/license-AICUBE%20Proprietary-red.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT%20(Non--Commercial)-blue?style=flat-square)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://python.org)
 [![Blockchain](https://img.shields.io/badge/blockchain-Ethereum%2C%20Fabric%2C%20Substrate-purple.svg)](https://ethereum.org)
 
